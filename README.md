@@ -17,6 +17,7 @@ Proud to present our project for the National Statistic Dashboard Competition 20
 • User-friendly design with actionable insights
 
 👥 Proud to collaborate as Team TiniWiniBiti:
+
 Rakhmadiani Ardinda Chaerunnisa and Marsheli Diva Muftiasa : Data cleaning and chart visualizations
 Muhammad Riza Zaidaan : Dashboard design and interactive features 
 
